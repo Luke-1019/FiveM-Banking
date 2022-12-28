@@ -2,6 +2,8 @@ fx_version 'adamant'
 
 game 'gta5'
 
+autor 'Luke'
+
 
 client_scripts {
 	"config.lua",
