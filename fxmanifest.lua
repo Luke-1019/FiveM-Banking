@@ -4,6 +4,7 @@ game 'gta5'
 
 autor 'Luke'
 
+Discrod 'https://discord.gg/unitydev'
 
 client_scripts {
 	"config.lua",
