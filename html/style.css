@@ -1,0 +1,348 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.rectangle-div16,
+.rectangle-div17 {
+  position: absolute;
+  left: 52px;
+  width: 243px;
+}
+.rectangle-div16 {
+  top: 21px;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 67, 77, 0.75),
+    rgba(30, 30, 30, 0.75)
+  );
+  box-shadow: 0 4px 4px #000;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  height: 140px;
+  mix-blend-mode: lighten;
+}
+.rectangle-div17 {
+  top: 60px;
+  background-color: #000;
+  height: 24px;
+  mix-blend-mode: normal;
+}
+.div {
+  position: absolute;
+  top: 64px;
+  left: 85px;
+  font-size: 13px;
+  display: inline-block;
+}
+
+
+.cash-amount {
+  position: absolute;
+  font-family: Inter;
+  font-size: 15px;
+  color: white;
+  top: 107px;
+  left: 95px;
+}
+
+.bank-amount {
+  position: absolute;
+  font-family: Inter;
+  font-size: 15px;
+  color: white;
+  top: 137px;
+  left: 95px;
+}
+
+.g-e-l-d-e-i-n-z-a-h-l-e-n {
+  position: absolute;
+  top: 400px;
+  left: 285px;
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.26);
+  display: inline-block;
+}
+.d-e-v-e-l-o-p-m-e-n-t,
+.g-e-l-d-a-u-s-z-a-h-l-e-n,
+.m-e-t-r-i-x {
+  position: absolute;
+  top: 400px;
+  left: 525px;
+  font-size: 11px;
+  display: inline-block;
+}
+.d-e-v-e-l-o-p-m-e-n-t,
+.m-e-t-r-i-x {
+  top: 8px;
+  left: 355px;
+  font-size: 32px;
+  color: transparent;
+  text-shadow: 0 4px 40px #fff;
+  -webkit-text-stroke: 1px #fff;
+}
+.d-e-v-e-l-o-p-m-e-n-t {
+  left: 543px;
+  text-shadow: 0 4px 40px #00e0ff;
+  -webkit-text-stroke: 1px #0097ac;
+}
+
+.rectangle-input {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 0;
+  top: 433px;
+  left: 288px;
+  border-radius: 20px;
+  width: 120px;
+  height: 33px;
+  font-family: Inter;
+  font-size: 14px;
+  color: #00e0ff;
+  display: inline-block;
+  -webkit-text-stroke: 1px transparent;
+  background-color: rgba(0, 0, 0, 0.71);
+  position: absolute;
+  box-sizing: border-box;
+}
+
+textarea:focus, input:focus {
+  font-size: 15px;
+  color: #ffffff;
+}
+
+input {
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.rectangle-button {
+  cursor: pointer;
+  border: 2px solid rgba(255, 255, 255, 0.75);
+  font-size: 11px;
+  display: inline-block;
+  text-align: center;
+  -webkit-text-stroke: 1px transparent;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0.71);
+  position: absolute;
+  top: 386px;
+  left: 252px;
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25) inset;
+  box-sizing: border-box;
+  width: 187px;
+  height: 41px;
+}
+
+.mastercard-logo-removebg-previ-icon {
+  position: absolute;
+  top: 119px;
+  left: 257px;
+  width: 38px;
+  height: 27px;
+  object-fit: cover;
+}
+.grand-theft-auto-the-ballad-o-icon,
+.icon-s-1 {
+  position: absolute;
+  top: 187px;
+  left: 7px;
+  width: 198px;
+  height: 294px;
+  object-fit: cover;
+}
+.icon-s-1 {
+  top: 132px;
+  left: 49px;
+  width: 37px;
+  height: 30px;
+}
+.rectangle-button1,
+.rectangle-div18 {
+  background-color: rgba(0, 0, 0, 0.71);
+  position: absolute;
+  box-sizing: border-box;
+}
+.rectangle-div18 {
+  top: 386px;
+  left: 498px;
+  font-size: 11px;
+  text-align: center;
+  border: 2px solid rgba(255, 255, 255, 0.75);
+  width: 187px;
+  height: 41px;
+}
+.rectangle-button1 {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 0;
+  top: 433px;
+  left: 535px;
+  border-radius: 20px;
+  width: 120px;
+  height: 33px;
+  font-family: Inter;
+  font-size: 14px;
+  color: #00e0ff;
+  display: inline-block;
+  -webkit-text-stroke: 1px transparent;
+}
+
+.rectangle-button2 {
+  cursor: pointer;
+  border: 2px solid rgba(255, 255, 255, 0.75);
+  padding: 0;
+  font-size: 11px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.71);
+  position: absolute;
+  top: 387px;
+  left: 745px;
+  box-sizing: border-box;
+  width: 150px;
+  height: 39px;
+}
+
+.rectangle-button3 {
+  cursor: pointer;
+  border: 2px solid rgba(255, 255, 255, 0.75);
+  padding: 0;
+  font-size: 11px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.71);
+  position: absolute;
+  top: 387px;
+  left: 897px;
+  box-sizing: border-box;
+  width: 40px;
+  height: 39px;
+}
+
+.b-e-r-w-e-i-s-u-n-g-id {
+  position: absolute;
+  top: 400px;
+  left: 771px;
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.26);
+  display: inline-block;
+}
+.rectangle-div19 {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 0;
+  top: 433px;
+  left: 780px;
+  border-radius: 20px;
+  width: 120px;
+  height: 33px;
+  font-family: Inter;
+  font-size: 14px;
+  color: #00e0ff;
+  display: inline-block;
+  -webkit-text-stroke: 1px transparent;
+  background-color: rgba(0, 0, 0, 0.71);
+  position: absolute;
+  box-sizing: border-box;
+}
+.senden-div {
+  position: absolute;
+  top: 441px;
+  left: 805px;
+  color: #00e0ff;
+  display: inline-block;
+  -webkit-text-stroke: 1px transparent;
+}
+.ebene-1-1 {
+  position: absolute;
+  top: 21px;
+  left: 389px;
+  width: 502px;
+  height: 250px;
+  object-fit: cover;
+}
+.line-div {
+  position: absolute;
+  top: -3px;
+  left: -3px;
+  background-color: #d9d9d9;
+  filter: blur(30px);
+  border-right: 6px solid #fff;
+  box-sizing: border-box;
+  width: 6px;
+  height: 487px;
+}
+.div1 {
+  top: 138px;
+  left: 81px;
+  display: inline-block;
+}
+.div1,
+.div2,
+.icon-b-1 {
+  position: absolute;
+}
+.div2 {
+  top: 105px;
+  left: 81px;
+  display: inline-block;
+}
+.icon-b-1 {
+  top: 104px;
+  left: 49px;
+  width: 37px;
+  height: 31px;
+  object-fit: cover;
+}
+.text-div {
+  position: absolute;
+  top: 37px;
+  left: 137px;
+  font-size: 11px;
+  color: #faff00;
+  display: inline-block;
+}
+.istockphoto-1151397537-612x612-icon {
+  position: absolute;
+  top: 28px;
+  left: 59px;
+  width: 26px;
+  height: 19px;
+  object-fit: cover;
+}
+.m-a-x-m-u-s-t-e-r-m-a-n {
+  position: absolute;
+  top: 28px;
+  left: 93px;
+  font-size: 15px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  font-weight: 900;
+}
+.frame-div1 {
+  position: absolute;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.9),
+    rgba(2, 66, 74, 0.67)
+  );
+  box-shadow: 0 4px 40px rgba(255, 255, 255, 0.4);
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  border-radius: 25px;
+  top: 28%;
+  left: 24%;
+  width: 990px;
+  height: 483px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: 14px;
+  color: #fff;
+  font-family: Inter;
+}
